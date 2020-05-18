@@ -15,3 +15,11 @@
 **数据集2**：MLB Pitch Data 2015-2018
 
 - 数据集主页：<https://www.kaggle.com/pschale/mlb-pitch-data-20152018>
+
+## 作业：频繁模式与关联规则挖掘
+
+**作业报告**：[dataMiningAssignment2.ipynb](dataMiningAssignment2.ipynb)
+
+**数据集**：Wine Reviews
+
+- 数据集主页：<https://www.kaggle.com/zynicide/wine-reviews>
