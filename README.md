@@ -23,3 +23,13 @@
 **数据集**：Wine Reviews
 
 - 数据集主页：<https://www.kaggle.com/zynicide/wine-reviews>
+
+## 作业：分类与预测
+
+**作业报告**：[dataMiningAssignment3.ipynb](dataMiningAssignment3.ipynb)
+
+**所选择的问题**：Hotel booking demand, 酒店预订需求
+
+**数据集**：Hotel booking demand
+
+- 数据集主页：<https://www.kaggle.com/jessemostipak/hotel-booking-demand>
