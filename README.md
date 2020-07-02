@@ -33,3 +33,11 @@
 **数据集**：Hotel booking demand
 
 - 数据集主页：<https://www.kaggle.com/jessemostipak/hotel-booking-demand>
+
+## 作业：离群点分析与异常检测
+
+**作业报告**：[dataMiningAssignment4.ipynb](dataMiningAssignment4.ipynb)
+
+**数据集**：wine_benchmarks 和 wave_benchmarks
+
+- 数据集主页：<https://ir.library.oregonstate.edu/concern/datasets/47429f155?locale=en>
